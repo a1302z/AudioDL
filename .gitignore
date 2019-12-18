@@ -1,1 +1,5 @@
-*ipynb_checkpoint
+*ipynb_checkpoints*
+*/__pycache__/*
+*.pyc
+data/*
+logs/*
